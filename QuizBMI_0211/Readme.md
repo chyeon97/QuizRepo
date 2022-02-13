@@ -28,3 +28,7 @@ BMI 출력 프로그램
 `삭제 및 출력`   
 
 <img width="519" alt="image" src="https://user-images.githubusercontent.com/40657327/153586629-d04c3649-0e93-49e7-b287-34fe9e9b4a59.png">
+
+`파일 생성`
+
+![image](https://user-images.githubusercontent.com/40657327/153742483-8613ad4f-93d4-402e-a9d9-a3cc9ea003f7.png)
